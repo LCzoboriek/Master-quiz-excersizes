@@ -8,7 +8,7 @@ STARTING_DIRECTION = "Forward"
 puts "Hello there adventurer, welcome to the Occasim, you find yourself
  deep in a forest, there are sounds all around you, you have one direction you
  can go but depending on where you go, you could face death. Where do you
-   go? (Forward, Left, Right or Back?): "
+   go? (Forward, Left, Right): "
 
 
 direction = gets.chomp.downcase
