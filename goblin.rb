@@ -16,6 +16,7 @@ end
 
 gob = Goblin.new("Gob")
 gob.attack
+gob.spit
 p gob
 
 spitty = Goblin.new("Spitty")
